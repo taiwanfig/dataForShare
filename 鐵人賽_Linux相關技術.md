@@ -7,7 +7,7 @@
 
 天數 | 題目 | 學習進度 | 備註
 |:-|:-|:-|:-|
-|01. | [Linux Pi的奇幻旅程(1)-ARMed Linux](https://ithelp.ithome.com.tw/articles/10129066) | aa | aa|
+|01. | [Linux Pi的奇幻旅程(1)-ARMed Linux](https://ithelp.ithome.com.tw/articles/10129066) | | |
 02. | [Linux Pi的奇幻旅程(2)-檔案結構與開機程序](https://ithelp.ithome.com.tw/articles/10129477) | | 
 03. | [Linux Pi的奇幻旅程(3)一台任你玩的小電腦](https://ithelp.ithome.com.tw/articles/10129537) | | 
 04. | [Linux Pi的奇幻旅程(4)-Windows篇](https://ithelp.ithome.com.tw/articles/10130317) | | 
