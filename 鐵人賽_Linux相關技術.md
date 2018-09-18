@@ -6,7 +6,7 @@
 [Linux Pi的奇幻旅程](https://ithelp.ithome.com.tw/ironman/articles/535)
 
 天數 | 題目 | 學習進度 | 備註
-:- | :- | :- |
+:-|:-|:-|:-
 01. | [Linux Pi的奇幻旅程(1)-ARMed Linux](https://ithelp.ithome.com.tw/articles/10129066) | | 
 02. | [Linux Pi的奇幻旅程(2)-檔案結構與開機程序](https://ithelp.ithome.com.tw/articles/10129477) | | 
 03. | [Linux Pi的奇幻旅程(3)一台任你玩的小電腦](https://ithelp.ithome.com.tw/articles/10129537) | | 
